@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/ondemand-pwa/static/css/main.782873e9.chunk.css",
-    "main.js": "/ondemand-pwa/static/js/main.840ba2dc.chunk.js",
+    "main.css": "/ondemand-pwa/static/css/main.d0053cce.chunk.css",
+    "main.js": "/ondemand-pwa/static/js/main.08c5f316.chunk.js",
     "runtime-main.js": "/ondemand-pwa/static/js/runtime-main.d65a9f7b.js",
     "static/css/2.c63f726c.chunk.css": "/ondemand-pwa/static/css/2.c63f726c.chunk.css",
     "static/js/2.e25553bf.chunk.js": "/ondemand-pwa/static/js/2.e25553bf.chunk.js",
     "index.html": "/ondemand-pwa/index.html",
-    "precache-manifest.c370314fd6cea564b6d9086fc94013fa.js": "/ondemand-pwa/precache-manifest.c370314fd6cea564b6d9086fc94013fa.js",
+    "precache-manifest.9be7c56440202a62397f6105693fdf8c.js": "/ondemand-pwa/precache-manifest.9be7c56440202a62397f6105693fdf8c.js",
     "service-worker.js": "/ondemand-pwa/service-worker.js",
     "static/js/2.e25553bf.chunk.js.LICENSE.txt": "/ondemand-pwa/static/js/2.e25553bf.chunk.js.LICENSE.txt",
     "static/media/UploadIcon.svg": "/ondemand-pwa/static/media/UploadIcon.1cedb6e9.svg"
@@ -15,7 +15,7 @@
     "static/js/runtime-main.d65a9f7b.js",
     "static/css/2.c63f726c.chunk.css",
     "static/js/2.e25553bf.chunk.js",
-    "static/css/main.782873e9.chunk.css",
-    "static/js/main.840ba2dc.chunk.js"
+    "static/css/main.d0053cce.chunk.css",
+    "static/js/main.08c5f316.chunk.js"
   ]
 }
