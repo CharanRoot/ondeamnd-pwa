@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4275018e5402593f76641d4be587c9b",
+    "revision": "d84de88b6f1d2c6078a15e202ce79cff",
     "url": "/ondemand-pwa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ondemand-pwa/static/css/2.c63f726c.chunk.css"
   },
   {
-    "revision": "d9b7323a37306a86f115",
+    "revision": "f3a25fba0b0fde7d38ed",
     "url": "/ondemand-pwa/static/css/main.d0053cce.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ondemand-pwa/static/js/2.d6dd3a68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9b7323a37306a86f115",
-    "url": "/ondemand-pwa/static/js/main.66367f03.chunk.js"
+    "revision": "f3a25fba0b0fde7d38ed",
+    "url": "/ondemand-pwa/static/js/main.65372df8.chunk.js"
   },
   {
     "revision": "9e676cbc4d9b617b26ed",
